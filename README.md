@@ -42,6 +42,7 @@ Tableau Link: <a href="https://public.tableau.com/app/profile/lucian6345/viz/SAL
    
    Here are a few recommendations:
    + Pricing optimization: By analyzing sales distribution, we can identify products that are selling well and those that are not. For products that are selling well, we can consider raising the price slightly to increase profit margins. For products that are not selling well, you might consider lowering the price to increase sales volume.
+   Here are a few options that can consider not to lower price: Bundling Sale, Targeted promotions.
    + Product development: By identifying products that are selling well, you can invest in product development initiatives to build on that success. We might consider expanding the product line by introducing new products that are similar to the top-performing products.
    + Marketing initiatives: We can use the insights from sales distribution to develop targeted marketing campaigns to promote the top-performing products: might offer discounts or other promotions to encourage customers to buy these products.
 
