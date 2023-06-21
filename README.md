@@ -97,7 +97,7 @@ Tableau Link: <a href="https://public.tableau.com/app/profile/lucian6345/viz/SAL
 
    
 
-Overall, by analyzing these key metrics, i have been able to provide the Specialty Toy Vehicle Dealer with valuable insights into their business performance, and help them to make more informed decisions to drive growth and profitability.
+Overall, by analyzing these key metrics, I have been able to provide the Specialty Toy Vehicle Dealer with valuable insights into the business performance and help making more informed decisions to drive growth and profitability.
 
 
 
